@@ -2,6 +2,6 @@
 
 This is a pomodoro timer app written in Python.
 
-Technologies: Python, Tkinter
+Technologies: Python, Tkinter, Math
 
-Principles: OPP, DRY, KISS
+Principles: DRY, KISS
